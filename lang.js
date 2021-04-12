@@ -46,7 +46,7 @@ function translate(tnum){
 var trans = [ 
 { 
     en : 'INDYCAR and the Indianapolis Motor Speedway are moving full speed ahead in the “Race for Equality and Change.” The past few months have been filled with announcements that have built the engine that will drive fundamental change and support diversity and inclusivity across the motorsports industry. But we’ve just taken the green flag.',
-    es : 'INDYCAR y el Indianapolis Motor Speedway avanzan a toda velocidad en la 'Carrera por la igualdad y el cambio'. Los últimos meses han estado llenos de anuncios que han construido el motor que impulsará un cambio fundamental y apoyará la diversidad y la inclusión en la industria del automovilismo. Pero acabamos de tomar la bandera verde.',
+    es : 'INDYCAR y el Indianapolis Motor Speedway avanzan a toda velocidad en la "Carrera por la igualdad y el cambio". Los últimos meses han estado llenos de anuncios que han construido el motor que impulsará un cambio fundamental y apoyará la diversidad y la inclusión en la industria del automovilismo. Pero acabamos de tomar la bandera verde.',
   }
 ];
 
